@@ -1,0 +1,1 @@
+Compilador: gcc version 11.3.0 (Ubuntu 11.3.0-1ubuntu1~22.04)
